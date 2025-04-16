@@ -1,4 +1,3 @@
-![screenshots_fraud_detection](https://github.com/user-attachments/assets/9bd6d4cf-c0cf-4049-9352-8999c5390a88)
 # Fraud detection in credit card transactions with Isolation Forest/Power BI
 Development of a fraud detection system for credit card transactions by applying the unsupervised machine learning algorithm Isolation Forest, ideal for detecting anomalies through the analysis of variables such as geographic distances and transaction times are analyzed to identify suspicious clusters, particularly clusters 1 and 4. This project used Power BI to present the findings and visualizations that allow us to identify potentially fraudulent transactions in a credit card dataset.
 
@@ -24,6 +23,8 @@ The Power BI dashboard includes:
 - **KPIs and cards** that summarize total transactions and fraud rates.
 - **Maps and scatter charts** to visualize the relationship between geographic distance and transaction amounts.
 - **Bar charts** that show the distribution of anomalies by day of the week and hour.
+
+![screenshots_fraud_detection](https://github.com/user-attachments/assets/9bd6d4cf-c0cf-4049-9352-8999c5390a88)
 
 The attached notebook details the analysis process, from data cleansing and transformation to the implementation of the Isolation Forest model and exploratory analysis, complementing the visualization in Power BI.
 
