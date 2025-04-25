@@ -50,7 +50,7 @@ You can modify the analysis and visualizations to suit your needs or delve deepe
 - Jupyter Notebook or Jupyter Lab
 
 ## Contributions
-If you'd like to contribute or suggest improvements, please open an issue or submit a pull request.
+Thankful for any contributions or suggestions for improvement.
 
 ## Author
 Jennifer Silva
